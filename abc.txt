@@ -1,0 +1,25 @@
+HTML Summary
+Our page's content, structure, and meaning are all defined using HTML (HyperText
+Markup Language).
+You don't use it for styling purposes. Instead, use CSS for that!
+HTML uses "elements" to describe (annotate) content
+Typically, HTML elements have an opening tag, content, and a closing tag.
+You can also have void (empty) elements like images
+You can also configure elements with attributes
+There's a long list of available elements but you'll gain experience over time, no
+worries.
+Learn more about all available HTML elements on the MDN HTML element reference.
+
+
+
+CSS Summary
+You can style the content of your page by using CSS (Cascading Style Sheets).
+To assign styles, use property value pairs.
+By using the "style" attribute, you can assign styles.
+Typically, global styles (such as those provided by the "style" element) are used
+to prevent code duplication
+A different option is to use external stylesheet files that you "link" to "
+Understanding terms like "inheritance," "specificity," and "the box model" is
+essential while dealing with CSS.
+Visit the MDN CSS property reference to learn more about all of the available CSS
+properties and values.
