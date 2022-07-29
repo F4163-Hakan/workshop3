@@ -24,7 +24,7 @@ ul {
   width:fit-content ;
   padding: 10px;
   border-radius: 10px
-  display: block;
+  /* display: block; */
   
 }
 #text {
